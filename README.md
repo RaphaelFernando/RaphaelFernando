@@ -19,5 +19,3 @@
   <a href="https://www.linkedin.com/in/raphael-fernando-281986133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/RaphaelFernando/RaphaelFernando/blob/output/github-contribution-grid-snake.svg)
-  
-</div>![image](https://user-images.githubusercontent.com/54040280/134589469-b7f6e026-b800-4c78-8945-cfa667663217.png)
