@@ -1,30 +1,39 @@
-<div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/raphael-fernando-281986133/"><i>Raphael Fernando</i></a> 😃️</h1>
-<div align="center">
-  <a href="https://github.com/RaphaelFernando">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RaphaelFernando&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-<div align="center" valign="top"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div><br>
+# Hello, my name is Raphael
 
-<div align="center">
-  <a href="https://www.instagram.com/raphael.fernando_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/raphael.fernando.9465" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raphael-fernando-281986133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:raphaelfernando81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+[![](https://img.shields.io/badge/-@RaphaelFernando-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/SpadaLunare)
+[![](https://img.shields.io/badge/-@RaphaelFernando-%23181717?style=flat-square&logo=github)](https://github.com/RaphaelFernando)
+[![](https://img.shields.io/badge/-@RaphaelFernando-%23000000?style=flat-square&logo=codepen)](https://codepen.io/RaphaelFernando)
+[![](https://img.shields.io/badge/-@RaphaelFernando-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/raphaelfernando)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)]()
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/RaphaelFernando/RaphaelFernando/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕! 
+
+:computer: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙.
+
+🖖 𝙑𝙪𝙚.𝙟𝙨 𝙛𝙖𝙣𝙖𝙩𝙞𝙘𝙨 | 🍎 𝙎𝙬𝙞𝙛𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 |
+
+:writing_hand: I'm developing my first Landing page. One day the link to it will be here.
+
+## 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸
+
+![HTML5](https://img.shields.io/badge/HTML5-%2523E44D27%2Cffffff?logo=HTML5&logoColor=ffffff&color=ff5a00)
+![CSS3](https://img.shields.io/badge/CSS3-%25231572B6?logo=CSS3&color=264de4)
+![JavaScript](https://img.shields.io/badge/JavaScript-%2523F7DF1C?logo=JavaScript&logoColor=000000&color=FAD800)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=TypeScript&logoColor=ffffff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?&logo=vuedotjs)
+![Nuxt](https://img.shields.io/badge/-Nuxt.js-%23282C34?logo=nuxtdotjs)
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?logo=react)
+
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?logo=tailwind-css)
+![UnoCSS](https://img.shields.io/badge/-UnoCSS-%23333333?logo=unocss)
+![WindiCSS](https://img.shields.io/badge/-WindiCSS-%23000000?logo=tailwind-css&&logoColor=48B0F1)
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?logo=visual-studio-code)
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![Meus Status](https://github-readme-stats.vercel.app/api?username=RaphaelFernando&show_icons=true&theme=dracula)
