@@ -1,6 +1,5 @@
 # Hello, my name is Raphael
 
-[![](https://img.shields.io/badge/-@RaphaelFernando-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/SpadaLunare)
 [![](https://img.shields.io/badge/-@RaphaelFernando-%23181717?style=flat-square&logo=github)](https://github.com/RaphaelFernando)
 [![](https://img.shields.io/badge/-@RaphaelFernando-%23000000?style=flat-square&logo=codepen)](https://codepen.io/RaphaelFernando)
 [![](https://img.shields.io/badge/-@RaphaelFernando-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/raphaelfernando)
