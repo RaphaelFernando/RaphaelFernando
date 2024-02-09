@@ -5,11 +5,11 @@
 [![](https://img.shields.io/badge/-@RaphaelFernando-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/raphaelfernando)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)]()
 
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕! 
+𝑰 ❤️ Front-end Development!
 
-:computer: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙.
+:computer: Self-thought Front-end..
 
-🖖 𝙑𝙪𝙚.𝙟𝙨 𝙛𝙖𝙣𝙖𝙩𝙞𝙘𝙨 | 🍎 𝙎𝙬𝙞𝙛𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 |
+⚛️ React fanacts | 🍎 Swift leaner | ☕️ Coffe lover
 
 :writing_hand: I'm developing my first Landing page. One day the link to it will be here.
 
