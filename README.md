@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-@RaphaelFernando-%23000000?style=flat-square&logo=codepen)](https://codepen.io/RaphaelFernando)
 [![](https://img.shields.io/badge/-@RaphaelFernando-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/raphaelfernando)
 
-𝑰 learning PHP development ! 🐘
+I learning PHP development ! 🐘
 
 :computer: Self-thought backend programming...
 
