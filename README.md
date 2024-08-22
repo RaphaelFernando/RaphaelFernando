@@ -3,13 +3,12 @@
 [![](https://img.shields.io/badge/-@RaphaelFernando-%23181717?style=flat-square&logo=github)](https://github.com/RaphaelFernando)
 [![](https://img.shields.io/badge/-@RaphaelFernando-%23000000?style=flat-square&logo=codepen)](https://codepen.io/RaphaelFernando)
 [![](https://img.shields.io/badge/-@RaphaelFernando-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/raphaelfernando)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)]()
 
-𝑰 ❤️ Front-end Development!
+𝑰 learning PHP development ! 🐘
 
-:computer: Self-thought Front-end..
+:computer: Self-thought backend programming...
 
-⚛️ React fanacts | 🍎 Swift leaner | ☕️ Coffe lover
+🐘 PHP development | 🍎 Swift leaner | ☕️ Coffe lover
 
 :writing_hand: I'm developing my first Landing page. One day the link to it will be here.
 
@@ -18,16 +17,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%2523E44D27%2Cffffff?logo=HTML5&logoColor=ffffff&color=ff5a00)
 ![CSS3](https://img.shields.io/badge/CSS3-%25231572B6?logo=CSS3&color=264de4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%2523F7DF1C?logo=JavaScript&logoColor=000000&color=FAD800)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=TypeScript&logoColor=ffffff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?&logo=vuedotjs)
-![Nuxt](https://img.shields.io/badge/-Nuxt.js-%23282C34?logo=nuxtdotjs)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?logo=react)
-
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?logo=tailwind-css)
-![UnoCSS](https://img.shields.io/badge/-UnoCSS-%23333333?logo=unocss)
-![WindiCSS](https://img.shields.io/badge/-WindiCSS-%23000000?logo=tailwind-css&&logoColor=48B0F1)
+![PHP](https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab)
