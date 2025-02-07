@@ -4,11 +4,9 @@
 [![](https://img.shields.io/badge/-@RaphaelFernando-%23000000?style=flat-square&logo=codepen)](https://codepen.io/RaphaelFernando)
 [![](https://img.shields.io/badge/-@RaphaelFernando-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/raphaelfernando)
 
-I learning PHP development ! 🐘
+I learning Python development  !
 
-:computer: Self-thought backend programming...
-
-🐘 PHP development | 🍎 Swift leaner | ☕️ Coffe lover
+:computer: Lato Sensu Postgraduate Student in Systems Development with Python
 
 :writing_hand: I'm developing my first Landing page. One day the link to it will be here.
 
@@ -17,7 +15,10 @@ I learning PHP development ! 🐘
 ![HTML5](https://img.shields.io/badge/HTML5-%2523E44D27%2Cffffff?logo=HTML5&logoColor=ffffff&color=ff5a00)
 ![CSS3](https://img.shields.io/badge/CSS3-%25231572B6?logo=CSS3&color=264de4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%2523F7DF1C?logo=JavaScript&logoColor=000000&color=FAD800)
-![PHP](https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white)
+![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
+
+
+
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab)
