@@ -8,8 +8,6 @@ I learning Python development  !
 
 :computer: Lato Sensu Postgraduate Student in Systems Development with Python
 
-:writing_hand: I'm developing my first Landing page. One day the link to it will be here.
-
 ## 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/HTML5-%2523E44D27%2Cffffff?logo=HTML5&logoColor=ffffff&color=ff5a00)
