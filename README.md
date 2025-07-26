@@ -24,6 +24,4 @@ I learning Python development  !
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Meus Status]([https://github-readme-stats.vercel.app/api?username=RaphaelFernando&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api?username=RaphaelFernando&show_icons=true&theme=dracula))
-
-
+![Meus Status](https://github-readme-stats.vercel.app/api?username=RaphaelFernando&show_icons=true&theme=dracula)
